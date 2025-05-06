@@ -1,0 +1,415 @@
+[
+  {
+    "nombre": "Gripe",
+    "sintomas": [
+      "fiebre",
+      "dolor muscular",
+      "congestión",
+      "tos"
+    ],
+    "gravedad": "regular",
+    "farmacos": [
+      "Paracetamol",
+      "Ibuprofeno",
+      "Jarabe para la tos"
+    ]
+  },
+  {
+    "nombre": "COVID-19",
+    "sintomas": [
+      "fiebre",
+      "tos seca",
+      "pérdida del olfato",
+      "dificultad para respirar"
+    ],
+    "gravedad": "muy mal",
+    "farmacos": [
+      "Paracetamol",
+      "Ibuprofeno",
+      "Antivirales (según indicación médica)"
+    ]
+  },
+  {
+    "nombre": "Migraña",
+    "sintomas": [
+      "dolor de cabeza",
+      "náuseas",
+      "sensibilidad a la luz"
+    ],
+    "gravedad": "mal",
+    "farmacos": [
+      "Ibuprofeno",
+      "Paracetamol",
+      "Triptanos (según prescripción)"
+    ]
+  },
+  {
+    "nombre": "Alergia estacional",
+    "sintomas": [
+      "estornudos",
+      "ojos llorosos",
+      "congestión"
+    ],
+    "gravedad": "regular",
+    "farmacos": [
+      "Antihistamínicos",
+      "Descongestionantes nasales"
+    ]
+  },
+  {
+    "nombre": "Gastritis",
+    "sintomas": [
+      "dolor abdominal",
+      "náuseas",
+      "acidez"
+    ],
+    "gravedad": "regular",
+    "farmacos": [
+      "Antiacidos",
+      "Inhibidores de la bomba de protones",
+      "Antibióticos (si es infecciosa)"
+    ]
+  },
+  {
+    "nombre": "Neumonía",
+    "sintomas": [
+      "fiebre",
+      "escalofríos",
+      "dolor en el pecho",
+      "tos con flema"
+    ],
+    "gravedad": "muy mal",
+    "farmacos": [
+      "Antibióticos (según el tipo de neumonía)",
+      "Antipiréticos"
+    ]
+  },
+  {
+    "nombre": "Bronquitis",
+    "sintomas": [
+      "tos persistente",
+      "dificultad para respirar",
+      "dolor en el pecho"
+    ],
+    "gravedad": "mal",
+    "farmacos": [
+      "Broncodilatadores",
+      "Antibióticos (si es bacteriana)",
+      "Antitusígenos"
+    ]
+  },
+  {
+    "nombre": "Sinusitis",
+    "sintomas": [
+      "dolor facial",
+      "congestión nasal",
+      "dolor de cabeza"
+    ],
+    "gravedad": "regular",
+    "farmacos": [
+      "Descongestionantes nasales",
+      "Antibióticos (si es bacteriana)",
+      "Analgésicos"
+    ]
+  },
+  {
+    "nombre": "Otitis",
+    "sintomas": [
+      "dolor de oído",
+      "fiebre",
+      "pérdida de audición"
+    ],
+    "gravedad": "regular",
+    "farmacos": [
+      "Antibióticos (si es infecciosa)",
+      "Analgesicos"
+    ]
+  },
+  {
+    "nombre": "Amigdalitis",
+    "sintomas": [
+      "dolor de garganta",
+      "fiebre",
+      "dificultad para tragar"
+    ],
+    "gravedad": "mal",
+    "farmacos": [
+      "Antibióticos (si es bacteriana)",
+      "Analgésicos",
+      "Antiinflamatorios"
+    ]
+  },
+  {
+    "nombre": "Resfriado común",
+    "sintomas": [
+      "estornudos",
+      "congestión",
+      "dolor de garganta"
+    ],
+    "gravedad": "regular",
+    "farmacos": [
+      "Antihistamínicos",
+      "Descongestionantes",
+      "Paracetamol"
+    ]
+  },
+  {
+    "nombre": "Asma",
+    "sintomas": [
+      "dificultad para respirar",
+      "sibilancias",
+      "opresión en el pecho"
+    ],
+    "gravedad": "mal",
+    "farmacos": [
+      "Broncodilatadores",
+      "Corticosteroides inhalados"
+    ]
+  },
+  {
+    "nombre": "Dengue",
+    "sintomas": [
+      "fiebre alta",
+      "dolor muscular",
+      "erupciones",
+      "dolor de cabeza"
+    ],
+    "gravedad": "muy mal",
+    "farmacos": [
+      "Paracetamol",
+      "Líquidos para rehidratación"
+    ]
+  },
+  {
+    "nombre": "Varicela",
+    "sintomas": [
+      "erupciones",
+      "picazón",
+      "fiebre"
+    ],
+    "gravedad": "regular",
+    "farmacos": [
+      "Antihistamínicos",
+      "Paracetamol",
+      "Crema para aliviar picazón"
+    ]
+  },
+  {
+    "nombre": "Hepatitis A",
+    "sintomas": [
+      "coloración amarilla",
+      "dolor abdominal",
+      "fatiga"
+    ],
+    "gravedad": "mal",
+    "farmacos": [
+      "Reposo",
+      "Analgésicos",
+      "Líquidos"
+    ]
+  },
+  {
+    "nombre": "Hepatitis B",
+    "sintomas": [
+      "náuseas",
+      "fatiga",
+      "orina oscura",
+      "ictericia"
+    ],
+    "gravedad": "muy mal",
+    "farmacos": [
+      "Antivirales",
+      "Líquidos",
+      "Analgésicos"
+    ]
+  },
+  {
+    "nombre": "Anemia",
+    "sintomas": [
+      "fatiga",
+      "mareo",
+      "palidez"
+    ],
+    "gravedad": "regular",
+    "farmacos": [
+      "Suplementos de hierro",
+      "Ácido fólico"
+    ]
+  },
+  {
+    "nombre": "Diabetes tipo 2",
+    "sintomas": [
+      "sed excesiva",
+      "orina frecuente",
+      "cansancio",
+      "visión borrosa"
+    ],
+    "gravedad": "mal",
+    "farmacos": [
+      "Metformina",
+      "Insulina"
+    ]
+  },
+  {
+    "nombre": "Hipertensión",
+    "sintomas": [
+      "dolor de cabeza",
+      "mareo",
+      "visión borrosa",
+      "palpitaciones"
+    ],
+    "gravedad": "regular",
+    "farmacos": [
+      "Antihipertensivos",
+      "Diuréticos"
+    ]
+  },
+  {
+    "nombre": "Infección urinaria",
+    "sintomas": [
+      "dolor al orinar",
+      "urgencia urinaria",
+      "orina turbia"
+    ],
+    "gravedad": "regular",
+    "farmacos": [
+      "Antibióticos",
+      "Analgésicos"
+    ]
+  },
+  {
+    "nombre": "Cistitis",
+    "sintomas": [
+      "dolor abdominal bajo",
+      "dolor al orinar",
+      "micción frecuente"
+    ],
+    "gravedad": "regular",
+    "farmacos": [
+      "Antibióticos",
+      "Analgésicos"
+    ]
+  },
+  {
+    "nombre": "Colitis",
+    "sintomas": [
+      "dolor abdominal",
+      "diarrea",
+      "gases"
+    ],
+    "gravedad": "mal",
+    "farmacos": [
+      "Antidiarreicos",
+      "Antibióticos (si es bacteriana)"
+    ]
+  },
+  {
+    "nombre": "Apendicitis",
+    "sintomas": [
+      "dolor abdominal intenso",
+      "náuseas",
+      "fiebre"
+    ],
+    "gravedad": "muy mal",
+    "farmacos": [
+      "Antibióticos",
+      "Analgésicos"
+    ]
+  },
+  {
+    "nombre": "Laringitis",
+    "sintomas": [
+      "pérdida de voz",
+      "dolor de garganta",
+      "tos seca"
+    ],
+    "gravedad": "regular",
+    "farmacos": [
+      "Analgésicos",
+      "Gárgaras con agua salada",
+      "Pastillas para la garganta"
+    ]
+  },
+  {
+    "nombre": "Enfermedad celíaca",
+    "sintomas": [
+      "diarrea",
+      "dolor abdominal",
+      "hinchazón",
+      "fatiga"
+    ],
+    "gravedad": "regular",
+    "farmacos": [
+      "No se requieren medicamentos, solo dieta sin gluten"
+    ]
+  },
+  {
+    "nombre": "Intoxicación alimentaria",
+    "sintomas": [
+      "vómitos",
+      "diarrea",
+      "dolor estomacal",
+      "fiebre"
+    ],
+    "gravedad": "mal",
+    "farmacos": [
+      "Antieméticos",
+      "Rehidratación oral"
+    ]
+  },
+  {
+    "nombre": "Mononucleosis",
+    "sintomas": [
+      "fatiga extrema",
+      "fiebre",
+      "dolor de garganta",
+      "inflamación de ganglios"
+    ],
+    "gravedad": "mal",
+    "farmacos": [
+      "Antipiréticos",
+      "Analgésicos"
+    ]
+  },
+  {
+    "nombre": "Tiroiditis",
+    "sintomas": [
+      "fatiga",
+      "sensibilidad al frío",
+      "aumento de peso",
+      "sequedad en la piel"
+    ],
+    "gravedad": "regular",
+    "farmacos": [
+      "Terapia con hormonas tiroideas"
+    ]
+  },
+  {
+    "nombre": "Depresión",
+    "sintomas": [
+      "tristeza persistente",
+      "fatiga",
+      "falta de interés",
+      "alteración del sueño"
+    ],
+    "gravedad": "mal",
+    "farmacos": [
+      "Antidepresivos",
+      "Terapia psicológica"
+    ]
+  },
+  {
+    "nombre": "Ansiedad",
+    "sintomas": [
+      "nerviosismo",
+      "palpitaciones",
+      "sudoración",
+      "temblores"
+    ],
+    "gravedad": "regular",
+    "farmacos": [
+      "Ansiolíticos",
+      "Terapia cognitivo-conductual"
+    ]
+  }
+]
