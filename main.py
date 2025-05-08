@@ -76,7 +76,7 @@ class SistemaExpertoDiagnostico(KnowledgeEngine):
     def alerta_gravedad(self):
         engine.say("Tu estado es crítico. Te recomiendo buscar atención médica de inmediato.")
         engine.runAndWait()
-        print("⚠️ Estado crítico. Busca atención médica urgente.")
+        print(" Estado crítico. Busca atención médica urgente.")
 
     # Regla que recomienda hidratación si hay tos
     @Rule(Sintoma(s="tos"))
